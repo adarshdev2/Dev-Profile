@@ -58,7 +58,7 @@ function Education() {
                 </div>
 
                 <p className="text-gray-400 text-sm sm:text-base md:text-lg leading-relaxed mt-6">
-                  Pursuing postgraduate studies with focus on
+                  Completed postgraduate studies with focus on
                   software engineering, databases, Linux systems,
                   backend development and problem solving.
                 </p>
