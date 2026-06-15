@@ -53,10 +53,17 @@ function Education() {
                   Government Arts College, Coimbatore
                 </p>
 
-                <div className="inline-block mt-5 px-4 py-2 bg-black rounded-xl text-xs sm:text-sm text-gray-300 border border-gray-700">
-                  2024 – 2026
-                </div>
+                <div className="flex flex-wrap justify-center gap-3 mt-5">
 
+                  <div className="px-4 py-2 bg-black rounded-xl text-xs sm:text-sm text-gray-300 border border-gray-700">
+                    2024 – 2026
+                  </div>
+
+                  <div className="px-4 py-2 bg-cyan-500/10 rounded-xl text-xs sm:text-sm text-cyan-400 border border-cyan-500/30">
+                    85%
+                  </div>
+
+                </div>
                 <p className="text-gray-400 text-sm sm:text-base md:text-lg leading-relaxed mt-6">
                   Completed postgraduate studies with focus on
                   software engineering, databases, Linux systems,
