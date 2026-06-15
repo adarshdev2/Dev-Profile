@@ -60,7 +60,7 @@ function Education() {
                   </div>
 
                   <div className="px-4 py-2 bg-cyan-500/10 rounded-xl text-xs sm:text-sm text-cyan-400 border border-cyan-500/30">
-                    85%
+                    84%
                   </div>
 
                 </div>
@@ -112,7 +112,7 @@ function Education() {
                   </div>
 
                   <div className="px-4 py-2 bg-cyan-500/10 rounded-xl text-xs sm:text-sm text-cyan-400 border border-cyan-500/30">
-                    82.7%
+                    82%
                   </div>
 
                 </div>
